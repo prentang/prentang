@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prentice
-- 👀 I’m interested in back-end, cybersecuirty, and WebDev
-- 🌱 I’m currently a DevOps Intern
+- 👀 I’m interested in back-end, infra, and WebDev
+- 🌱 I’m currently a IT Techncian
 - 💞️ I’m looking to collaborate on anything front-end/back-end
 - 📫 How to reach me prenticetang@gmail.com
 - 😄 Pronouns: He/Him
