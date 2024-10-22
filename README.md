@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prentice
 - 👀 I’m interested in back-end and infrastructure
 - 🌱 I’m currently a Microsoft TEALS Computer Science Teaching Assistant
-- 💞️ I’m looking to help create programs that make peoples lives easier
+- 💞️ I'm passionate about developing programs that simplify and enhance everyday life
 - 📫 How to reach me prenticetang@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I opened up a buisness before returning back to school to pursue computer science
