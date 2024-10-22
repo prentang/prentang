@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Prentice
-- 👀 I’m interested in back-end, infra, and systems
-- 🌱 I’m currently a Microsoft TEALS TA
-- 💞️ I’m looking to collaborate on anything back-end
+- 👀 I’m interested in back-end and infrastructure
+- 🌱 I’m currently a Microsoft TEALS Computer Science Teaching Assistant
+- 💞️ I’m looking to help create programs that make peoples lives easier
 - 📫 How to reach me prenticetang@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was a franchisee and general manager before returning back to school to learn more about CS (theory, math, etc.). 
+- ⚡ Fun fact: I opened up a buisness before returning back to school to pursue computer science
 
 <!---
 prentang/prentang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
