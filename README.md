@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prentice
 - 👀 I’m interested in back-end and infrastructure
-- 🌱 I’m currently a Microsoft TEALS Computer Science Teaching Assistant
+- 🌱 I’m currently a DevOps Engineer Intern at CyberArk
 - 💞️ I'm passionate about developing programs that simplify and enhance everyday life
 - 📫 How to reach me prenticetang@gmail.com
 - 😄 Pronouns: He/Him
