@@ -25,10 +25,10 @@ the pipelines, the platforms, the plumbing nobody notices until it breaks.
 Now I build tooling that makes the boring parts of software disappear.
 
 ```text
-→  currently: prepping to start as a DevOps Engineer @ Palo Alto Networks
-→  building:  automation + self-hosted infrastructure projects
-→  learning:  deeper Kubernetes, cloud architecture, IaC patterns
-→  ask me about: CI/CD, containers, or running a small business at 22
+->  currently: prepping to start as a DevOps Engineer Intern @ Palo Alto Networks
+->  building:  automation + self-hosted infrastructure projects
+->  learning:  deeper Kubernetes, cloud architecture, IaC patterns
+->  ask me about: CI/CD, containers, or running a small business at 22
 ```
 
 <!-- Swap the four lines above for whatever is actually true this month.
@@ -60,15 +60,11 @@ Now I build tooling that makes the boring parts of software disappear.
 <br>
 
 - Pronouns: he/him
-- Passionate about software that quietly removes friction from everyday life
-- The business taught me more about ops than any class did — uptime is uptime
+- Passionate about software
+- The business me about ops - uptime is uptime
 - Always happy to talk shop with other people breaking into infra
 
 </details>
 
 ---
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=prentang&show_icons=true&hide_border=true&theme=tokyonight&hide=issues" alt="GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prentang&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
-</div>
