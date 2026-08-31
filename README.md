@@ -1,14 +1,14 @@
 <h1 align="center">Prentice Tang</h1>
 
 <p align="center">
-  <b>Back-end & Infrastructure</b> · Incoming DevOps Engineer @ Palo Alto Networks
+  <b>Back-end & Infrastructure</b> · Incoming DevOps Engineer Intern @ Palo Alto Networks
 </p>
 
 <p align="center">
   <a href="mailto:prenticetang@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR-HANDLE">
+  <a href="https://linkedin.com/in/prentice-tang">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/prentang">
