@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prentice
 - 👀 I’m interested in back-end and infrastructure
-- 🌱 I’m currently an incoming Software Engineer Intern at Sonos
+- 🌱 I’m currently an incoming DevOps Engineer at Palo Alto Networks
 - 💞️ I'm passionate about developing programs that simplify and enhance everyday life
 - 📫 How to reach me prenticetang@gmail.com
 - 😄 Pronouns: He/Him
