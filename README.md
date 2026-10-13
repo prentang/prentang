@@ -1,7 +1,7 @@
 <h1 align="center">Prentice Tang</h1>
 
 <p align="center">
-  <b>Back-end & Infrastructure</b> · Incoming DevOps Engineer Intern @ Palo Alto Networks
+  <b>Back-end & Infrastructure</b> · DevOps Engineer Intern @ Palo Alto Networks
 </p>
 
 <p align="center">
