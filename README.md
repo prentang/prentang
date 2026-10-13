@@ -25,7 +25,7 @@ the pipelines, the platforms, the plumbing nobody notices until it breaks.
 Now I build tooling that makes the boring parts of software disappear.
 
 ```text
-->  currently: prepping to start as a DevOps Engineer Intern @ Palo Alto Networks
+->  currently: a DevOps Engineer Intern @ Palo Alto Networks
 ->  building:  automation + self-hosted infrastructure projects
 ->  learning:  deeper Kubernetes, cloud architecture, IaC patterns
 ->  ask me about: CI/CD, containers, or running a small business at 22
